@@ -1,4 +1,4 @@
-# AirTouch# AirTouch: Touchless Mouse Control
+# AirTouch: Touchless Mouse Control
 
 ## Introduction
 
